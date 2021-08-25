@@ -89,7 +89,6 @@ body {
   justify-content: space-between;
   box-shadow: 0 4px 6px rgb(100, 98, 98);
   padding: 1%;
-  transform: rotate(5deg);
 }
 
 .card-color-1{
@@ -116,6 +115,16 @@ body {
   font-size: small;
   opacity: 0.8;
 }
+
+.card-rotation-1 {transform: rotate(5deg);}
+.card-rotation-2 {transform: rotate(6deg);}
+.card-rotation-3 {transform: rotate(7deg);}
+.card-rotation-4 {transform: rotate(8deg);}
+.card-rotation-5 {transform: rotate(-5deg);}
+.card-rotation-6 {transform: rotate(-6deg);}
+.card-rotation-7 {transform: rotate(-7deg);}
+.card-rotation-8 {transform: rotate(-8deg);}
+.card-rotation-9 {transform: rotate(10deg);}
 
 /* Você pode usar o CSS comentado abaixo, se ajudar */
 /* Fonte: https://codepen.io/CrisWoler/pen/ogXBLj */
